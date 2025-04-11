@@ -1,0 +1,537 @@
+{
+  "pkgName": "playwright-demo",
+  "pkgVersion": "0.0.1",
+  "cacheId": "todo-mvc-zh.spec.ts(ai todo - Chinese Prompt)",
+  "aiTasks": [
+    {
+      "prompt": "在任务框 input 输入 今天学习 JS，按回车键",
+      "tasks": [
+        {
+          "type": "plan",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "在任务框 input 输入 今天学习 JS，按回车键 @ ",
+          "response": {
+            "actions": [
+              {
+                "type": "Input",
+                "thought": "输入 '今天学习 JS' 到任务输入框。",
+                "param": {
+                  "value": "今天学习 JS"
+                },
+                "locate": {
+                  "id": "lpnid",
+                  "prompt": "任务输入框"
+                }
+              },
+              {
+                "type": "KeyboardPress",
+                "thought": "按下回车键提交输入。",
+                "param": {
+                  "value": "Enter"
+                }
+              }
+            ],
+            "log": "在任务输入框中输入 '今天学习 JS'，然后按下回车键提交。",
+            "taskWillBeAccomplished": true,
+            "furtherPlan": null,
+            "rawResponse": "{\n  \"actions\": [\n    {\n      \"type\": \"Input\",\n      \"thought\": \"输入 '今天学习 JS' 到任务输入框。\",\n      \"param\": {\n        \"value\": \"今天学习 JS\"\n      },\n      \"locate\": {\n        \"id\": \"lpnid\",\n        \"prompt\": \"任务输入框\"\n      }\n    },\n    {\n      \"type\": \"KeyboardPress\",\n      \"thought\": \"按下回车键提交输入。\",\n      \"param\": {\n        \"value\": \"Enter\"\n      }\n    }\n  ],\n  \"log\": \"在任务输入框中输入 '今天学习 JS'，然后按下回车键提交。\",\n  \"taskWillBeAccomplished\": true,\n  \"furtherPlan\": null\n}",
+            "usage": {
+              "prompt_tokens": 4487,
+              "completion_tokens": 154,
+              "total_tokens": 4641
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "任务输入框",
+          "response": {
+            "elements": [
+              {
+                "id": "lpnid"
+              }
+            ]
+          },
+          "element": {
+            "id": "lpnid",
+            "indexId": 18,
+            "center": [
+              782,
+              162
+            ],
+            "rect": {
+              "left": 507,
+              "top": 130,
+              "width": 550,
+              "height": 65,
+              "zoom": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "在任务框 input 输入 明天学习 Rust，按回车键",
+      "tasks": [
+        {
+          "type": "plan",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "在任务框 input 输入 明天学习 Rust，按回车键 @ ",
+          "response": {
+            "actions": [
+              {
+                "type": "Tap",
+                "thought": "Click on the input field to focus on it.",
+                "param": null,
+                "locate": {
+                  "id": "lpnid",
+                  "prompt": "The input field for adding a new todo"
+                }
+              },
+              {
+                "type": "Input",
+                "thought": "Type '明天学习 Rust' into the input field.",
+                "param": {
+                  "value": "明天学习 Rust"
+                },
+                "locate": {
+                  "id": "lpnid",
+                  "prompt": "The input field for adding a new todo"
+                }
+              },
+              {
+                "type": "KeyboardPress",
+                "thought": "Press the Enter key to submit the new todo.",
+                "param": {
+                  "value": "Enter"
+                }
+              }
+            ],
+            "log": "I will click on the input field, type '明天学习 Rust', and press Enter to submit the new todo.",
+            "error": null,
+            "more_actions_needed_by_instruction": false,
+            "taskWillBeAccomplished": true,
+            "furtherPlan": null,
+            "rawResponse": "{\n  \"actions\": [\n    {\n      \"type\": \"Tap\",\n      \"thought\": \"Click on the input field to focus on it.\",\n      \"param\": null,\n      \"locate\": {\n        \"id\": \"lpnid\",\n        \"prompt\": \"The input field for adding a new todo\"\n      }\n    },\n    {\n      \"type\": \"Input\",\n      \"thought\": \"Type '明天学习 Rust' into the input field.\",\n      \"param\": {\n        \"value\": \"明天学习 Rust\"\n      },\n      \"locate\": {\n        \"id\": \"lpnid\",\n        \"prompt\": \"The input field for adding a new todo\"\n      }\n    },\n    {\n      \"type\": \"KeyboardPress\",\n      \"thought\": \"Press the Enter key to submit the new todo.\",\n      \"param\": {\n        \"value\": \"Enter\"\n      }\n    }\n  ],\n  \"log\": \"I will click on the input field, type '明天学习 Rust', and press Enter to submit the new todo.\",\n  \"error\": null,\n  \"more_actions_needed_by_instruction\": false,\n  \"taskWillBeAccomplished\": true,\n  \"furtherPlan\": null\n}",
+            "usage": {
+              "prompt_tokens": 4820,
+              "completion_tokens": 243,
+              "total_tokens": 5063
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "The input field for adding a new todo",
+          "response": {
+            "elements": [
+              {
+                "id": "lpnid"
+              }
+            ]
+          },
+          "element": {
+            "id": "lpnid",
+            "indexId": 18,
+            "center": [
+              782,
+              162
+            ],
+            "rect": {
+              "left": 507,
+              "top": 130,
+              "width": 550,
+              "height": 65,
+              "zoom": 1
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "The input field for adding a new todo",
+          "response": {
+            "elements": [
+              {
+                "id": "lpnid"
+              }
+            ]
+          },
+          "element": {
+            "id": "lpnid",
+            "indexId": 18,
+            "center": [
+              782,
+              162
+            ],
+            "rect": {
+              "left": 507,
+              "top": 130,
+              "width": 550,
+              "height": 65,
+              "zoom": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "在任务框 input 输入后天学习 AI，按回车键",
+      "tasks": [
+        {
+          "type": "plan",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "在任务框 input 输入后天学习 AI，按回车键 @ ",
+          "response": {
+            "actions": [
+              {
+                "type": "Tap",
+                "thought": "Click on the input field to focus on it.",
+                "param": null,
+                "locate": {
+                  "id": "lpnid",
+                  "prompt": "The input field for entering new tasks"
+                }
+              },
+              {
+                "type": "Input",
+                "thought": "Type '后天学习 AI' into the input field.",
+                "param": {
+                  "value": "后天学习 AI"
+                },
+                "locate": {
+                  "id": "lpnid",
+                  "prompt": "The input field for entering new tasks"
+                }
+              },
+              {
+                "type": "KeyboardPress",
+                "thought": "Press the Enter key to submit the task.",
+                "param": {
+                  "value": "Enter"
+                }
+              }
+            ],
+            "log": "I will focus on the input field, type '后天学习 AI', and press Enter to submit the task.",
+            "taskWillBeAccomplished": true,
+            "furtherPlan": null,
+            "rawResponse": "{\n  \"actions\": [\n    {\n      \"type\": \"Tap\",\n      \"thought\": \"Click on the input field to focus on it.\",\n      \"param\": null,\n      \"locate\": {\n        \"id\": \"lpnid\",\n        \"prompt\": \"The input field for entering new tasks\"\n      }\n    },\n    {\n      \"type\": \"Input\",\n      \"thought\": \"Type '后天学习 AI' into the input field.\",\n      \"param\": {\n        \"value\": \"后天学习 AI\"\n      },\n      \"locate\": {\n        \"id\": \"lpnid\",\n        \"prompt\": \"The input field for entering new tasks\"\n      }\n    },\n    {\n      \"type\": \"KeyboardPress\",\n      \"thought\": \"Press the Enter key to submit the task.\",\n      \"param\": {\n        \"value\": \"Enter\"\n      }\n    }\n  ],\n  \"log\": \"I will focus on the input field, type '后天学习 AI', and press Enter to submit the task.\",\n  \"taskWillBeAccomplished\": true,\n  \"furtherPlan\": null\n}",
+            "usage": {
+              "prompt_tokens": 4919,
+              "completion_tokens": 223,
+              "total_tokens": 5142
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "The input field for entering new tasks",
+          "response": {
+            "elements": [
+              {
+                "id": "lpnid"
+              }
+            ]
+          },
+          "element": {
+            "id": "lpnid",
+            "indexId": 18,
+            "center": [
+              782,
+              162
+            ],
+            "rect": {
+              "left": 507,
+              "top": 130,
+              "width": 550,
+              "height": 65,
+              "zoom": 1
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "The input field for entering new tasks",
+          "response": {
+            "elements": [
+              {
+                "id": "lpnid"
+              }
+            ]
+          },
+          "element": {
+            "id": "lpnid",
+            "indexId": 18,
+            "center": [
+              782,
+              162
+            ],
+            "rect": {
+              "left": 507,
+              "top": 130,
+              "width": 550,
+              "height": 65,
+              "zoom": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮",
+      "tasks": [
+        {
+          "type": "plan",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮 @ ",
+          "response": {
+            "actions": [
+              {
+                "type": "Hover",
+                "thought": "将鼠标移动到任务列表中的第二项。",
+                "param": null,
+                "locate": {
+                  "id": "dpaek",
+                  "prompt": "任务列表中的第二项：明天学习 Rust"
+                }
+              },
+              {
+                "type": "Tap",
+                "thought": "点击第二项任务右边的删除按钮。",
+                "param": null,
+                "locate": {
+                  "id": "gfhcf",
+                  "prompt": "任务列表中第二项的删除按钮"
+                }
+              }
+            ],
+            "log": "将鼠标移动到任务列表中的第二项，然后点击第二项任务右边的删除按钮。",
+            "error": null,
+            "more_actions_needed_by_instruction": false,
+            "taskWillBeAccomplished": true,
+            "furtherPlan": null,
+            "rawResponse": "{\n  \"actions\": [\n    {\n      \"type\": \"Hover\",\n      \"thought\": \"将鼠标移动到任务列表中的第二项。\",\n      \"param\": null,\n      \"locate\": {\n        \"id\": \"dpaek\",\n        \"prompt\": \"任务列表中的第二项：明天学习 Rust\"\n      }\n    },\n    {\n      \"type\": \"Tap\",\n      \"thought\": \"点击第二项任务右边的删除按钮。\",\n      \"param\": null,\n      \"locate\": {\n        \"id\": \"gfhcf\",\n        \"prompt\": \"任务列表中第二项的删除按钮\"\n      }\n    }\n  ],\n  \"log\": \"将鼠标移动到任务列表中的第二项，然后点击第二项任务右边的删除按钮。\",\n  \"error\": null,\n  \"more_actions_needed_by_instruction\": false,\n  \"taskWillBeAccomplished\": true,\n  \"furtherPlan\": null\n}",
+            "usage": {
+              "prompt_tokens": 5026,
+              "completion_tokens": 199,
+              "total_tokens": 5225
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "任务列表中的第二项：明天学习 Rust",
+          "response": {
+            "elements": [
+              {
+                "id": "dpaek"
+              }
+            ]
+          },
+          "element": {
+            "id": "dpaek",
+            "indexId": 24,
+            "center": [
+              643,
+              284
+            ],
+            "rect": {
+              "left": 567,
+              "top": 271,
+              "width": 152,
+              "height": 27,
+              "zoom": 1
+            }
+          }
+        },
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "任务列表中第二项的删除按钮",
+          "response": {
+            "elements": [
+              {
+                "id": "gfhcf"
+              }
+            ]
+          },
+          "element": {
+            "id": "gfhcf",
+            "indexId": 23,
+            "center": [
+              527,
+              285
+            ],
+            "rect": {
+              "left": 507,
+              "top": 265,
+              "width": 40,
+              "height": 40,
+              "zoom": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Tap - 第二条任务左边的勾选按钮",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "第二条任务左边的勾选按钮",
+          "response": {
+            "elements": [
+              {
+                "id": "gfhcf"
+              }
+            ]
+          },
+          "element": {
+            "id": "gfhcf",
+            "indexId": 23,
+            "center": [
+              527,
+              285
+            ],
+            "rect": {
+              "left": 507,
+              "top": 265,
+              "width": 40,
+              "height": 40,
+              "zoom": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Tap - 任务列表下面的 completed 状态按钮",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://todomvc.com/examples/react/dist/",
+            "size": {
+              "width": 1263,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "任务列表下面的 completed 状态按钮",
+          "response": {
+            "elements": [
+              {
+                "id": "mmijj"
+              }
+            ]
+          },
+          "element": {
+            "id": "mmijj",
+            "indexId": 30,
+            "center": [
+              832,
+              394
+            ],
+            "rect": {
+              "left": 796,
+              "top": 386,
+              "width": 73,
+              "height": 17,
+              "zoom": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
