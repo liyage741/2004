@@ -1,0 +1,24 @@
+# 请求域名
+console_url: http://console.test425-qingzhou.com
+# 租户标识(网关依赖)
+scenarioTenantEnName: tenant1
+# 项目标识(网关依赖)
+scenarioProjectEnName: project1
+# 网关名称
+default_gateway_name: gateway-proxy
+# 域名信息
+hostHeader: 10.104.183.13
+# 共用自动化账号
+qingzhou_default_user: admin
+qingzhou_default_password: admin123456
+#应用名称及其svc对应的http端口
+appName: apigw-demo-e2e.apigw-demo.svc.cluster.local
+appName2: apigw-demo-httpbin.apigw-demo.svc.cluster.local
+appPort: 80
+appPort2: 80
+soapAppName: apigw-demo-soap.apigw-demo.svc.cluster.local
+soapAppPort: 8080
+grpcServiceHost: apigw-demo-grpc.apigw-demo.svc.cluster.local:55055
+# 日志级别 DEBUG  INFO WARNING ERROR
+logLevel: INFO
+

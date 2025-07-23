@@ -1,6 +1,7 @@
 import os
 import shutil
 import subprocess
+import time
 from subprocess import run
 
 def get_allure_cmd():
@@ -26,7 +27,7 @@ def clean_reports():
         'Reports/allure-results',
         'Reports/html'
     ]
-    
+
     for path in paths_to_clean:
         if os.path.exists(path):
             try:
@@ -34,7 +35,7 @@ def clean_reports():
                 print(f"已清理: {path}")
             except Exception as e:
                 print(f"清理 {path} 时出错: {str(e)}")
-    
+
     # 重新创建目录
     for path in paths_to_clean:
         os.makedirs(path, exist_ok=True)
@@ -45,33 +46,38 @@ def run_tests():
         # 获取正确的allure命令路径
         allure_cmd = get_allure_cmd()
         print(f"使用Allure命令: {allure_cmd}")
-        
+
         # 清理旧报告
         clean_reports()
-        
+
         # 运行测试并生成allure结果
         print("开始运行测试...")
-        pytest_result = subprocess.run(['pytest', '-v', '--alluredir=Reports/allure-results'], 
-                                    capture_output=True, 
-                                    text=True)
+        pytest_result = subprocess.run(['pytest',
+                                        'test_ui/test_case/',
+                                        '-v',
+                                        '--alluredir=Reports/allure-results'],
+                                       capture_output=True,
+                                       text=True)
         print(pytest_result.stdout)
-        
+
         # 生成报告
         print("正在生成Allure报告...")
-        generate_result = subprocess.run([allure_cmd, 'generate', 'Reports/allure-results', 
-                                       '-o', 'Reports/html', '--clean'],
-                                      capture_output=True,
-                                      text=True,
-                                      shell=True)  # 添加shell=True
-        
+        generate_result = subprocess.run([allure_cmd, 'generate', 'Reports/allure-results',
+                                          '-o', 'Reports/html', '--clean'],
+                                         capture_output=True,
+                                         text=True,
+                                         shell=True)  # 添加shell=True
+
         if generate_result.returncode == 0:
             print("报告生成成功！")
             # 打开报告
-            subprocess.run([allure_cmd, 'open', 'Reports/html'], shell=True)
+            allure_process = subprocess.Popen([allure_cmd, 'open', 'Reports/html'], shell=True)
+            time.sleep(30)
+            allure_process.terminate()
         else:
             print("报告生成失败！")
             print("错误信息:", generate_result.stderr)
-        
+
     except FileNotFoundError as e:
         print(f"错误：未找到Allure命令行工具。请确保已安装Allure并添加到环境变量中。")
         print(f"详细错误：{str(e)}")
@@ -79,6 +85,7 @@ def run_tests():
         print(f"发生错误：{str(e)}")
         print("请确保已正确安装Node.js版本的allure-commandline：")
         print("npm install -g allure-commandline")
+
 
 if __name__ == "__main__":
     run_tests()

@@ -1,7 +1,7 @@
 # 测试框架
 pytest>=7.4.0
 pytest-html>=4.1.1
-allure-pytest>=2.13.2
+allure-pytest>=2.14.3
 
 # UI测试
 playwright>=1.48.0

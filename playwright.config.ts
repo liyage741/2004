@@ -26,23 +26,10 @@ export default defineConfig({
   reporter: [["line"], ["@midscene/web/playwright-report"]],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
-    /* Base URL to use in actions like `await page.goto('/')`. */
-    // baseURL: 'http://127.0.0.1:3000',
-
-    /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: "on-first-retry",
-
-    // Midscene 配置
-    midscene: {
-      llm: {
-        model: process.env.MODEL_NAME,
-        apiKey: process.env.OPENAI_API_KEY,
-        baseURL: process.env.OPENAI_API_BASE
-      }
-    }
+    actionTimeout: 30 * 1000, // 每个操作的超时时间
+    navigationTimeout: 30 * 1000, // 导航超时时间
   },
-
-  /* Configure projects for major browsers */
   projects: [
     {
       name: "chromium",
