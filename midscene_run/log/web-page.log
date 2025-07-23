@@ -1,0 +1,638 @@
+[2025-07-19T21:51:13.424+08:00] waitForNavigation begin
+[2025-07-19T21:51:13.424+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:13.427+08:00] waitForNavigation begin
+[2025-07-19T21:51:13.427+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:13.459+08:00] waitForNavigation end
+[2025-07-19T21:51:13.459+08:00] screenshotBase64 begin
+[2025-07-19T21:51:13.465+08:00] waitForNavigation end
+[2025-07-19T21:51:13.465+08:00] evaluate function begin
+[2025-07-19T21:51:13.495+08:00] evaluate function end
+[2025-07-19T21:51:13.564+08:00] screenshotBase64 end
+[2025-07-19T21:51:13.564+08:00] evaluate function begin
+[2025-07-19T21:51:13.567+08:00] evaluate function end
+[2025-07-19T21:51:19.467+08:00] waitForNavigation begin
+[2025-07-19T21:51:19.467+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:19.469+08:00] waitForNavigation begin
+[2025-07-19T21:51:19.469+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:19.482+08:00] waitForNavigation end
+[2025-07-19T21:51:19.482+08:00] screenshotBase64 begin
+[2025-07-19T21:51:19.484+08:00] waitForNavigation end
+[2025-07-19T21:51:19.485+08:00] evaluate function begin
+[2025-07-19T21:51:19.526+08:00] evaluate function end
+[2025-07-19T21:51:19.593+08:00] screenshotBase64 end
+[2025-07-19T21:51:23.478+08:00] evaluate function begin
+[2025-07-19T21:51:23.484+08:00] evaluate function end
+[2025-07-19T21:51:23.487+08:00] waitForNavigation begin
+[2025-07-19T21:51:23.487+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:23.494+08:00] waitForNavigation end
+[2025-07-19T21:51:23.494+08:00] screenshotBase64 begin
+[2025-07-19T21:51:23.560+08:00] screenshotBase64 end
+[2025-07-19T21:51:24.569+08:00] waitForNavigation begin
+[2025-07-19T21:51:24.569+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:24.575+08:00] waitForNavigation end
+[2025-07-19T21:51:24.575+08:00] screenshotBase64 begin
+[2025-07-19T21:51:24.642+08:00] screenshotBase64 end
+[2025-07-19T21:51:24.914+08:00] waitForNavigation begin
+[2025-07-19T21:51:24.914+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:24.920+08:00] waitForNavigation end
+[2025-07-19T21:51:24.920+08:00] screenshotBase64 begin
+[2025-07-19T21:51:24.989+08:00] screenshotBase64 end
+[2025-07-19T21:51:25.059+08:00] waitForNavigation begin
+[2025-07-19T21:51:25.059+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:25.060+08:00] waitForNavigation begin
+[2025-07-19T21:51:25.060+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:25.067+08:00] waitForNavigation end
+[2025-07-19T21:51:25.067+08:00] screenshotBase64 begin
+[2025-07-19T21:51:25.069+08:00] waitForNavigation end
+[2025-07-19T21:51:25.069+08:00] evaluate function begin
+[2025-07-19T21:51:25.092+08:00] evaluate function end
+[2025-07-19T21:51:25.161+08:00] screenshotBase64 end
+[2025-07-19T21:51:30.033+08:00] waitForNavigation begin
+[2025-07-19T21:51:30.033+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:30.034+08:00] waitForNavigation begin
+[2025-07-19T21:51:30.035+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:30.042+08:00] waitForNavigation end
+[2025-07-19T21:51:30.042+08:00] screenshotBase64 begin
+[2025-07-19T21:51:30.045+08:00] waitForNavigation end
+[2025-07-19T21:51:30.046+08:00] evaluate function begin
+[2025-07-19T21:51:30.069+08:00] evaluate function end
+[2025-07-19T21:51:30.117+08:00] screenshotBase64 end
+[2025-07-19T21:51:34.663+08:00] evaluate function begin
+[2025-07-19T21:51:34.668+08:00] evaluate function end
+[2025-07-19T21:51:34.669+08:00] waitForNavigation begin
+[2025-07-19T21:51:34.669+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:34.675+08:00] waitForNavigation end
+[2025-07-19T21:51:34.675+08:00] screenshotBase64 begin
+[2025-07-19T21:51:34.742+08:00] screenshotBase64 end
+[2025-07-19T21:51:35.918+08:00] waitForNavigation begin
+[2025-07-19T21:51:35.918+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:35.926+08:00] waitForNavigation end
+[2025-07-19T21:51:35.926+08:00] screenshotBase64 begin
+[2025-07-19T21:51:35.993+08:00] screenshotBase64 end
+[2025-07-19T21:51:36.202+08:00] waitForNavigation begin
+[2025-07-19T21:51:36.202+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:36.209+08:00] waitForNavigation end
+[2025-07-19T21:51:36.209+08:00] screenshotBase64 begin
+[2025-07-19T21:51:36.275+08:00] screenshotBase64 end
+[2025-07-19T21:51:36.347+08:00] waitForNavigation begin
+[2025-07-19T21:51:36.347+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:36.349+08:00] waitForNavigation begin
+[2025-07-19T21:51:36.349+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:36.358+08:00] waitForNavigation end
+[2025-07-19T21:51:36.358+08:00] screenshotBase64 begin
+[2025-07-19T21:51:36.361+08:00] waitForNavigation end
+[2025-07-19T21:51:36.361+08:00] evaluate function begin
+[2025-07-19T21:51:36.384+08:00] evaluate function end
+[2025-07-19T21:51:36.449+08:00] screenshotBase64 end
+[2025-07-19T21:51:39.952+08:00] waitForNavigation begin
+[2025-07-19T21:51:39.952+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:39.953+08:00] waitForNavigation begin
+[2025-07-19T21:51:39.953+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:39.960+08:00] waitForNavigation end
+[2025-07-19T21:51:39.961+08:00] screenshotBase64 begin
+[2025-07-19T21:51:39.962+08:00] waitForNavigation end
+[2025-07-19T21:51:39.963+08:00] evaluate function begin
+[2025-07-19T21:51:39.984+08:00] evaluate function end
+[2025-07-19T21:51:40.048+08:00] screenshotBase64 end
+[2025-07-19T21:51:44.133+08:00] evaluate function begin
+[2025-07-19T21:51:44.139+08:00] evaluate function end
+[2025-07-19T21:51:44.140+08:00] waitForNavigation begin
+[2025-07-19T21:51:44.140+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:44.147+08:00] waitForNavigation end
+[2025-07-19T21:51:44.147+08:00] screenshotBase64 begin
+[2025-07-19T21:51:44.221+08:00] screenshotBase64 end
+[2025-07-19T21:51:45.233+08:00] waitForNavigation begin
+[2025-07-19T21:51:45.233+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:45.239+08:00] waitForNavigation end
+[2025-07-19T21:51:45.239+08:00] screenshotBase64 begin
+[2025-07-19T21:51:45.307+08:00] screenshotBase64 end
+[2025-07-19T21:51:45.516+08:00] waitForNavigation begin
+[2025-07-19T21:51:45.516+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:45.522+08:00] waitForNavigation end
+[2025-07-19T21:51:45.522+08:00] screenshotBase64 begin
+[2025-07-19T21:51:45.590+08:00] screenshotBase64 end
+[2025-07-19T21:51:45.664+08:00] waitForNavigation begin
+[2025-07-19T21:51:45.665+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:45.665+08:00] waitForNavigation begin
+[2025-07-19T21:51:45.665+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:45.672+08:00] waitForNavigation end
+[2025-07-19T21:51:45.672+08:00] screenshotBase64 begin
+[2025-07-19T21:51:45.673+08:00] waitForNavigation end
+[2025-07-19T21:51:45.673+08:00] evaluate function begin
+[2025-07-19T21:51:45.696+08:00] evaluate function end
+[2025-07-19T21:51:45.747+08:00] screenshotBase64 end
+[2025-07-19T21:51:54.513+08:00] waitForNavigation begin
+[2025-07-19T21:51:54.513+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:54.514+08:00] waitForNavigation begin
+[2025-07-19T21:51:54.514+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:54.521+08:00] waitForNavigation end
+[2025-07-19T21:51:54.521+08:00] screenshotBase64 begin
+[2025-07-19T21:51:54.523+08:00] waitForNavigation end
+[2025-07-19T21:51:54.523+08:00] evaluate function begin
+[2025-07-19T21:51:54.546+08:00] evaluate function end
+[2025-07-19T21:51:54.619+08:00] screenshotBase64 end
+[2025-07-19T21:51:59.027+08:00] evaluate function begin
+[2025-07-19T21:51:59.034+08:00] evaluate function end
+[2025-07-19T21:51:59.035+08:00] waitForNavigation begin
+[2025-07-19T21:51:59.035+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:59.041+08:00] waitForNavigation end
+[2025-07-19T21:51:59.041+08:00] screenshotBase64 begin
+[2025-07-19T21:51:59.135+08:00] screenshotBase64 end
+[2025-07-19T21:51:59.358+08:00] waitForNavigation begin
+[2025-07-19T21:51:59.358+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:59.365+08:00] waitForNavigation end
+[2025-07-19T21:51:59.366+08:00] screenshotBase64 begin
+[2025-07-19T21:51:59.462+08:00] screenshotBase64 end
+[2025-07-19T21:51:59.541+08:00] waitForNavigation begin
+[2025-07-19T21:51:59.541+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:59.542+08:00] waitForNavigation begin
+[2025-07-19T21:51:59.542+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:51:59.550+08:00] waitForNavigation end
+[2025-07-19T21:51:59.550+08:00] screenshotBase64 begin
+[2025-07-19T21:51:59.551+08:00] waitForNavigation end
+[2025-07-19T21:51:59.552+08:00] evaluate function begin
+[2025-07-19T21:51:59.574+08:00] evaluate function end
+[2025-07-19T21:51:59.648+08:00] screenshotBase64 end
+[2025-07-19T21:52:02.869+08:00] evaluate function begin
+[2025-07-19T21:52:02.875+08:00] evaluate function end
+[2025-07-19T21:52:02.876+08:00] waitForNavigation begin
+[2025-07-19T21:52:02.876+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:02.883+08:00] waitForNavigation end
+[2025-07-19T21:52:02.883+08:00] screenshotBase64 begin
+[2025-07-19T21:52:02.945+08:00] screenshotBase64 end
+[2025-07-19T21:52:03.171+08:00] waitForNavigation begin
+[2025-07-19T21:52:03.171+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:03.177+08:00] waitForNavigation end
+[2025-07-19T21:52:03.177+08:00] screenshotBase64 begin
+[2025-07-19T21:52:03.244+08:00] screenshotBase64 end
+[2025-07-19T21:52:03.263+08:00] waitForNavigation begin
+[2025-07-19T21:52:03.263+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:03.269+08:00] waitForNavigation end
+[2025-07-19T21:52:03.269+08:00] screenshotBase64 begin
+[2025-07-19T21:52:03.337+08:00] screenshotBase64 end
+[2025-07-19T21:52:03.397+08:00] waitForNavigation begin
+[2025-07-19T21:52:03.397+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:03.398+08:00] waitForNavigation begin
+[2025-07-19T21:52:03.398+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:03.404+08:00] waitForNavigation end
+[2025-07-19T21:52:03.404+08:00] screenshotBase64 begin
+[2025-07-19T21:52:03.406+08:00] waitForNavigation end
+[2025-07-19T21:52:03.406+08:00] evaluate function begin
+[2025-07-19T21:52:03.427+08:00] evaluate function end
+[2025-07-19T21:52:03.495+08:00] screenshotBase64 end
+[2025-07-19T21:52:04.506+08:00] waitForNavigation begin
+[2025-07-19T21:52:04.506+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:04.512+08:00] waitForNavigation end
+[2025-07-19T21:52:04.512+08:00] screenshotBase64 begin
+[2025-07-19T21:52:04.589+08:00] screenshotBase64 end
+[2025-07-19T21:52:04.653+08:00] waitForNavigation begin
+[2025-07-19T21:52:04.653+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:04.654+08:00] waitForNavigation begin
+[2025-07-19T21:52:04.654+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:04.659+08:00] waitForNavigation end
+[2025-07-19T21:52:04.659+08:00] screenshotBase64 begin
+[2025-07-19T21:52:04.662+08:00] waitForNavigation end
+[2025-07-19T21:52:04.662+08:00] evaluate function begin
+[2025-07-19T21:52:04.682+08:00] evaluate function end
+[2025-07-19T21:52:04.730+08:00] screenshotBase64 end
+[2025-07-19T21:52:04.793+08:00] waitForNavigation begin
+[2025-07-19T21:52:04.793+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:04.794+08:00] waitForNavigation begin
+[2025-07-19T21:52:04.794+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:52:04.800+08:00] waitForNavigation end
+[2025-07-19T21:52:04.800+08:00] screenshotBase64 begin
+[2025-07-19T21:52:04.802+08:00] waitForNavigation end
+[2025-07-19T21:52:04.802+08:00] evaluate function begin
+[2025-07-19T21:52:04.823+08:00] evaluate function end
+[2025-07-19T21:52:04.890+08:00] screenshotBase64 end
+[2025-07-19T21:57:12.147+08:00] waitForNavigation begin
+[2025-07-19T21:57:12.147+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:12.150+08:00] waitForNavigation begin
+[2025-07-19T21:57:12.150+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:12.181+08:00] waitForNavigation end
+[2025-07-19T21:57:12.181+08:00] screenshotBase64 begin
+[2025-07-19T21:57:12.186+08:00] waitForNavigation end
+[2025-07-19T21:57:12.187+08:00] evaluate function begin
+[2025-07-19T21:57:12.202+08:00] evaluate function end
+[2025-07-19T21:57:12.242+08:00] screenshotBase64 end
+[2025-07-19T21:57:12.242+08:00] evaluate function begin
+[2025-07-19T21:57:12.246+08:00] evaluate function end
+[2025-07-19T21:57:16.785+08:00] waitForNavigation begin
+[2025-07-19T21:57:16.785+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:16.786+08:00] waitForNavigation begin
+[2025-07-19T21:57:16.786+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:16.794+08:00] waitForNavigation end
+[2025-07-19T21:57:16.794+08:00] screenshotBase64 begin
+[2025-07-19T21:57:16.797+08:00] waitForNavigation end
+[2025-07-19T21:57:16.797+08:00] evaluate function begin
+[2025-07-19T21:57:16.822+08:00] evaluate function end
+[2025-07-19T21:57:16.900+08:00] screenshotBase64 end
+[2025-07-19T21:57:21.486+08:00] evaluate function begin
+[2025-07-19T21:57:21.492+08:00] evaluate function end
+[2025-07-19T21:57:21.496+08:00] waitForNavigation begin
+[2025-07-19T21:57:21.496+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:21.502+08:00] waitForNavigation end
+[2025-07-19T21:57:21.502+08:00] screenshotBase64 begin
+[2025-07-19T21:57:21.570+08:00] screenshotBase64 end
+[2025-07-19T21:57:22.578+08:00] waitForNavigation begin
+[2025-07-19T21:57:22.578+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:22.585+08:00] waitForNavigation end
+[2025-07-19T21:57:22.585+08:00] screenshotBase64 begin
+[2025-07-19T21:57:22.667+08:00] screenshotBase64 end
+[2025-07-19T21:57:22.942+08:00] waitForNavigation begin
+[2025-07-19T21:57:22.942+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:22.949+08:00] waitForNavigation end
+[2025-07-19T21:57:22.949+08:00] screenshotBase64 begin
+[2025-07-19T21:57:23.019+08:00] screenshotBase64 end
+[2025-07-19T21:57:23.090+08:00] waitForNavigation begin
+[2025-07-19T21:57:23.090+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:23.091+08:00] waitForNavigation begin
+[2025-07-19T21:57:23.091+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:23.097+08:00] waitForNavigation end
+[2025-07-19T21:57:23.097+08:00] screenshotBase64 begin
+[2025-07-19T21:57:23.099+08:00] waitForNavigation end
+[2025-07-19T21:57:23.099+08:00] evaluate function begin
+[2025-07-19T21:57:23.121+08:00] evaluate function end
+[2025-07-19T21:57:23.172+08:00] screenshotBase64 end
+[2025-07-19T21:57:29.642+08:00] waitForNavigation begin
+[2025-07-19T21:57:29.642+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:29.643+08:00] waitForNavigation begin
+[2025-07-19T21:57:29.643+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:29.650+08:00] waitForNavigation end
+[2025-07-19T21:57:29.650+08:00] screenshotBase64 begin
+[2025-07-19T21:57:29.652+08:00] waitForNavigation end
+[2025-07-19T21:57:29.652+08:00] evaluate function begin
+[2025-07-19T21:57:29.673+08:00] evaluate function end
+[2025-07-19T21:57:29.751+08:00] screenshotBase64 end
+[2025-07-19T21:57:33.176+08:00] evaluate function begin
+[2025-07-19T21:57:33.183+08:00] evaluate function end
+[2025-07-19T21:57:33.184+08:00] waitForNavigation begin
+[2025-07-19T21:57:33.184+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:33.192+08:00] waitForNavigation end
+[2025-07-19T21:57:33.192+08:00] screenshotBase64 begin
+[2025-07-19T21:57:33.266+08:00] screenshotBase64 end
+[2025-07-19T21:57:34.458+08:00] waitForNavigation begin
+[2025-07-19T21:57:34.458+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:34.464+08:00] waitForNavigation end
+[2025-07-19T21:57:34.464+08:00] screenshotBase64 begin
+[2025-07-19T21:57:34.532+08:00] screenshotBase64 end
+[2025-07-19T21:57:34.743+08:00] waitForNavigation begin
+[2025-07-19T21:57:34.743+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:34.750+08:00] waitForNavigation end
+[2025-07-19T21:57:34.750+08:00] screenshotBase64 begin
+[2025-07-19T21:57:34.834+08:00] screenshotBase64 end
+[2025-07-19T21:57:34.906+08:00] waitForNavigation begin
+[2025-07-19T21:57:34.906+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:34.907+08:00] waitForNavigation begin
+[2025-07-19T21:57:34.907+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:34.915+08:00] waitForNavigation end
+[2025-07-19T21:57:34.915+08:00] screenshotBase64 begin
+[2025-07-19T21:57:34.916+08:00] waitForNavigation end
+[2025-07-19T21:57:34.916+08:00] evaluate function begin
+[2025-07-19T21:57:34.938+08:00] evaluate function end
+[2025-07-19T21:57:35.000+08:00] screenshotBase64 end
+[2025-07-19T21:57:42.153+08:00] waitForNavigation begin
+[2025-07-19T21:57:42.153+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:42.154+08:00] waitForNavigation begin
+[2025-07-19T21:57:42.154+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:42.162+08:00] waitForNavigation end
+[2025-07-19T21:57:42.162+08:00] screenshotBase64 begin
+[2025-07-19T21:57:42.164+08:00] waitForNavigation end
+[2025-07-19T21:57:42.164+08:00] evaluate function begin
+[2025-07-19T21:57:42.186+08:00] evaluate function end
+[2025-07-19T21:57:42.265+08:00] screenshotBase64 end
+[2025-07-19T21:57:49.222+08:00] evaluate function begin
+[2025-07-19T21:57:49.228+08:00] evaluate function end
+[2025-07-19T21:57:49.228+08:00] waitForNavigation begin
+[2025-07-19T21:57:49.228+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:49.235+08:00] waitForNavigation end
+[2025-07-19T21:57:49.235+08:00] screenshotBase64 begin
+[2025-07-19T21:57:49.305+08:00] screenshotBase64 end
+[2025-07-19T21:57:50.307+08:00] waitForNavigation begin
+[2025-07-19T21:57:50.307+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:50.313+08:00] waitForNavigation end
+[2025-07-19T21:57:50.313+08:00] screenshotBase64 begin
+[2025-07-19T21:57:50.380+08:00] screenshotBase64 end
+[2025-07-19T21:57:50.594+08:00] waitForNavigation begin
+[2025-07-19T21:57:50.594+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:50.599+08:00] waitForNavigation end
+[2025-07-19T21:57:50.600+08:00] screenshotBase64 begin
+[2025-07-19T21:57:50.687+08:00] screenshotBase64 end
+[2025-07-19T21:57:50.765+08:00] waitForNavigation begin
+[2025-07-19T21:57:50.765+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:50.766+08:00] waitForNavigation begin
+[2025-07-19T21:57:50.766+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:50.780+08:00] waitForNavigation end
+[2025-07-19T21:57:50.780+08:00] screenshotBase64 begin
+[2025-07-19T21:57:50.781+08:00] waitForNavigation end
+[2025-07-19T21:57:50.782+08:00] evaluate function begin
+[2025-07-19T21:57:50.805+08:00] evaluate function end
+[2025-07-19T21:57:50.855+08:00] screenshotBase64 end
+[2025-07-19T21:57:56.042+08:00] waitForNavigation begin
+[2025-07-19T21:57:56.042+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:56.046+08:00] waitForNavigation begin
+[2025-07-19T21:57:56.046+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:57:56.055+08:00] waitForNavigation end
+[2025-07-19T21:57:56.055+08:00] screenshotBase64 begin
+[2025-07-19T21:57:56.056+08:00] waitForNavigation end
+[2025-07-19T21:57:56.056+08:00] evaluate function begin
+[2025-07-19T21:57:56.078+08:00] evaluate function end
+[2025-07-19T21:57:56.141+08:00] screenshotBase64 end
+[2025-07-19T21:58:00.636+08:00] evaluate function begin
+[2025-07-19T21:58:00.642+08:00] evaluate function end
+[2025-07-19T21:58:00.642+08:00] waitForNavigation begin
+[2025-07-19T21:58:00.642+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:00.648+08:00] waitForNavigation end
+[2025-07-19T21:58:00.648+08:00] screenshotBase64 begin
+[2025-07-19T21:58:00.722+08:00] screenshotBase64 end
+[2025-07-19T21:58:00.947+08:00] waitForNavigation begin
+[2025-07-19T21:58:00.947+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:00.954+08:00] waitForNavigation end
+[2025-07-19T21:58:00.954+08:00] screenshotBase64 begin
+[2025-07-19T21:58:01.054+08:00] screenshotBase64 end
+[2025-07-19T21:58:01.138+08:00] waitForNavigation begin
+[2025-07-19T21:58:01.138+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:01.138+08:00] waitForNavigation begin
+[2025-07-19T21:58:01.138+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:01.145+08:00] waitForNavigation end
+[2025-07-19T21:58:01.145+08:00] screenshotBase64 begin
+[2025-07-19T21:58:01.146+08:00] waitForNavigation end
+[2025-07-19T21:58:01.146+08:00] evaluate function begin
+[2025-07-19T21:58:01.169+08:00] evaluate function end
+[2025-07-19T21:58:01.239+08:00] screenshotBase64 end
+[2025-07-19T21:58:04.601+08:00] evaluate function begin
+[2025-07-19T21:58:04.606+08:00] evaluate function end
+[2025-07-19T21:58:04.607+08:00] waitForNavigation begin
+[2025-07-19T21:58:04.607+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:04.613+08:00] waitForNavigation end
+[2025-07-19T21:58:04.613+08:00] screenshotBase64 begin
+[2025-07-19T21:58:04.686+08:00] screenshotBase64 end
+[2025-07-19T21:58:04.913+08:00] waitForNavigation begin
+[2025-07-19T21:58:04.913+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:04.920+08:00] waitForNavigation end
+[2025-07-19T21:58:04.920+08:00] screenshotBase64 begin
+[2025-07-19T21:58:04.988+08:00] screenshotBase64 end
+[2025-07-19T21:58:05.007+08:00] waitForNavigation begin
+[2025-07-19T21:58:05.007+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:05.014+08:00] waitForNavigation end
+[2025-07-19T21:58:05.014+08:00] screenshotBase64 begin
+[2025-07-19T21:58:05.082+08:00] screenshotBase64 end
+[2025-07-19T21:58:05.142+08:00] waitForNavigation begin
+[2025-07-19T21:58:05.142+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:05.143+08:00] waitForNavigation begin
+[2025-07-19T21:58:05.143+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:05.149+08:00] waitForNavigation end
+[2025-07-19T21:58:05.149+08:00] screenshotBase64 begin
+[2025-07-19T21:58:05.152+08:00] waitForNavigation end
+[2025-07-19T21:58:05.152+08:00] evaluate function begin
+[2025-07-19T21:58:05.172+08:00] evaluate function end
+[2025-07-19T21:58:05.241+08:00] screenshotBase64 end
+[2025-07-19T21:58:06.237+08:00] waitForNavigation begin
+[2025-07-19T21:58:06.237+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:06.244+08:00] waitForNavigation end
+[2025-07-19T21:58:06.244+08:00] screenshotBase64 begin
+[2025-07-19T21:58:06.320+08:00] screenshotBase64 end
+[2025-07-19T21:58:06.380+08:00] waitForNavigation begin
+[2025-07-19T21:58:06.380+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:06.381+08:00] waitForNavigation begin
+[2025-07-19T21:58:06.381+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:06.389+08:00] waitForNavigation end
+[2025-07-19T21:58:06.389+08:00] screenshotBase64 begin
+[2025-07-19T21:58:06.390+08:00] waitForNavigation end
+[2025-07-19T21:58:06.390+08:00] evaluate function begin
+[2025-07-19T21:58:06.415+08:00] evaluate function end
+[2025-07-19T21:58:06.492+08:00] screenshotBase64 end
+[2025-07-19T21:58:06.551+08:00] waitForNavigation begin
+[2025-07-19T21:58:06.551+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:06.552+08:00] waitForNavigation begin
+[2025-07-19T21:58:06.552+08:00] waitForNavigation timeout: 5000
+[2025-07-19T21:58:06.558+08:00] waitForNavigation end
+[2025-07-19T21:58:06.558+08:00] screenshotBase64 begin
+[2025-07-19T21:58:06.559+08:00] waitForNavigation end
+[2025-07-19T21:58:06.560+08:00] evaluate function begin
+[2025-07-19T21:58:06.580+08:00] evaluate function end
+[2025-07-19T21:58:06.634+08:00] screenshotBase64 end
+[2025-07-23T12:55:18.434+08:00] waitForNavigation begin
+[2025-07-23T12:55:18.434+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:18.438+08:00] waitForNavigation begin
+[2025-07-23T12:55:18.438+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:18.478+08:00] waitForNavigation end
+[2025-07-23T12:55:18.478+08:00] screenshotBase64 begin
+[2025-07-23T12:55:18.498+08:00] waitForNavigation end
+[2025-07-23T12:55:18.571+08:00] evaluate function begin
+[2025-07-23T12:55:18.600+08:00] evaluate function end
+[2025-07-23T12:55:18.646+08:00] screenshotBase64 end
+[2025-07-23T12:55:18.647+08:00] evaluate function begin
+[2025-07-23T12:55:18.650+08:00] evaluate function end
+[2025-07-23T12:55:29.351+08:00] waitForNavigation begin
+[2025-07-23T12:55:29.351+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:29.352+08:00] waitForNavigation begin
+[2025-07-23T12:55:29.352+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:29.361+08:00] waitForNavigation end
+[2025-07-23T12:55:29.361+08:00] screenshotBase64 begin
+[2025-07-23T12:55:29.363+08:00] waitForNavigation end
+[2025-07-23T12:55:29.363+08:00] evaluate function begin
+[2025-07-23T12:55:29.383+08:00] evaluate function end
+[2025-07-23T12:55:29.444+08:00] screenshotBase64 end
+[2025-07-23T12:55:32.636+08:00] evaluate function begin
+[2025-07-23T12:55:32.643+08:00] evaluate function end
+[2025-07-23T12:55:32.646+08:00] waitForNavigation begin
+[2025-07-23T12:55:32.646+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:32.653+08:00] waitForNavigation end
+[2025-07-23T12:55:32.653+08:00] screenshotBase64 begin
+[2025-07-23T12:55:32.732+08:00] screenshotBase64 end
+[2025-07-23T12:55:33.724+08:00] waitForNavigation begin
+[2025-07-23T12:55:33.724+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:33.731+08:00] waitForNavigation end
+[2025-07-23T12:55:33.731+08:00] screenshotBase64 begin
+[2025-07-23T12:55:33.796+08:00] screenshotBase64 end
+[2025-07-23T12:55:34.052+08:00] waitForNavigation begin
+[2025-07-23T12:55:34.052+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:34.061+08:00] waitForNavigation end
+[2025-07-23T12:55:34.061+08:00] screenshotBase64 begin
+[2025-07-23T12:55:34.126+08:00] screenshotBase64 end
+[2025-07-23T12:55:34.228+08:00] waitForNavigation begin
+[2025-07-23T12:55:34.228+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:34.229+08:00] waitForNavigation begin
+[2025-07-23T12:55:34.229+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:34.236+08:00] waitForNavigation end
+[2025-07-23T12:55:34.236+08:00] screenshotBase64 begin
+[2025-07-23T12:55:34.239+08:00] waitForNavigation end
+[2025-07-23T12:55:34.240+08:00] evaluate function begin
+[2025-07-23T12:55:34.267+08:00] evaluate function end
+[2025-07-23T12:55:34.327+08:00] screenshotBase64 end
+[2025-07-23T12:55:38.740+08:00] waitForNavigation begin
+[2025-07-23T12:55:38.741+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:38.742+08:00] waitForNavigation begin
+[2025-07-23T12:55:38.742+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:38.749+08:00] waitForNavigation end
+[2025-07-23T12:55:38.749+08:00] screenshotBase64 begin
+[2025-07-23T12:55:38.751+08:00] waitForNavigation end
+[2025-07-23T12:55:38.751+08:00] evaluate function begin
+[2025-07-23T12:55:38.773+08:00] evaluate function end
+[2025-07-23T12:55:38.835+08:00] screenshotBase64 end
+[2025-07-23T12:55:44.650+08:00] evaluate function begin
+[2025-07-23T12:55:44.655+08:00] evaluate function end
+[2025-07-23T12:55:44.656+08:00] waitForNavigation begin
+[2025-07-23T12:55:44.656+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:44.662+08:00] waitForNavigation end
+[2025-07-23T12:55:44.662+08:00] screenshotBase64 begin
+[2025-07-23T12:55:44.733+08:00] screenshotBase64 end
+[2025-07-23T12:55:45.903+08:00] waitForNavigation begin
+[2025-07-23T12:55:45.903+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:45.911+08:00] waitForNavigation end
+[2025-07-23T12:55:45.911+08:00] screenshotBase64 begin
+[2025-07-23T12:55:45.977+08:00] screenshotBase64 end
+[2025-07-23T12:55:46.186+08:00] waitForNavigation begin
+[2025-07-23T12:55:46.186+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:46.192+08:00] waitForNavigation end
+[2025-07-23T12:55:46.192+08:00] screenshotBase64 begin
+[2025-07-23T12:55:46.259+08:00] screenshotBase64 end
+[2025-07-23T12:55:46.330+08:00] waitForNavigation begin
+[2025-07-23T12:55:46.331+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:46.331+08:00] waitForNavigation begin
+[2025-07-23T12:55:46.331+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:46.338+08:00] waitForNavigation end
+[2025-07-23T12:55:46.338+08:00] screenshotBase64 begin
+[2025-07-23T12:55:46.340+08:00] waitForNavigation end
+[2025-07-23T12:55:46.340+08:00] evaluate function begin
+[2025-07-23T12:55:46.362+08:00] evaluate function end
+[2025-07-23T12:55:46.417+08:00] screenshotBase64 end
+[2025-07-23T12:55:50.721+08:00] waitForNavigation begin
+[2025-07-23T12:55:50.721+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:50.722+08:00] waitForNavigation begin
+[2025-07-23T12:55:50.723+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:50.730+08:00] waitForNavigation end
+[2025-07-23T12:55:50.730+08:00] screenshotBase64 begin
+[2025-07-23T12:55:50.732+08:00] waitForNavigation end
+[2025-07-23T12:55:50.733+08:00] evaluate function begin
+[2025-07-23T12:55:50.754+08:00] evaluate function end
+[2025-07-23T12:55:50.834+08:00] screenshotBase64 end
+[2025-07-23T12:55:54.666+08:00] evaluate function begin
+[2025-07-23T12:55:54.672+08:00] evaluate function end
+[2025-07-23T12:55:54.677+08:00] waitForNavigation begin
+[2025-07-23T12:55:54.678+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:54.684+08:00] waitForNavigation end
+[2025-07-23T12:55:54.684+08:00] screenshotBase64 begin
+[2025-07-23T12:55:54.766+08:00] screenshotBase64 end
+[2025-07-23T12:55:55.034+08:00] waitForNavigation begin
+[2025-07-23T12:55:55.034+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:55.035+08:00] waitForNavigation begin
+[2025-07-23T12:55:55.035+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:55.043+08:00] waitForNavigation end
+[2025-07-23T12:55:55.043+08:00] screenshotBase64 begin
+[2025-07-23T12:55:55.044+08:00] waitForNavigation end
+[2025-07-23T12:55:55.044+08:00] evaluate function begin
+[2025-07-23T12:55:55.066+08:00] evaluate function end
+[2025-07-23T12:55:55.124+08:00] screenshotBase64 end
+[2025-07-23T12:55:57.695+08:00] evaluate function begin
+[2025-07-23T12:55:57.702+08:00] evaluate function end
+[2025-07-23T12:55:57.703+08:00] waitForNavigation begin
+[2025-07-23T12:55:57.703+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:57.709+08:00] waitForNavigation end
+[2025-07-23T12:55:57.709+08:00] screenshotBase64 begin
+[2025-07-23T12:55:57.781+08:00] screenshotBase64 end
+[2025-07-23T12:55:58.761+08:00] waitForNavigation begin
+[2025-07-23T12:55:58.761+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:58.767+08:00] waitForNavigation end
+[2025-07-23T12:55:58.767+08:00] screenshotBase64 begin
+[2025-07-23T12:55:58.848+08:00] screenshotBase64 end
+[2025-07-23T12:55:59.059+08:00] waitForNavigation begin
+[2025-07-23T12:55:59.059+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:59.066+08:00] waitForNavigation end
+[2025-07-23T12:55:59.066+08:00] screenshotBase64 begin
+[2025-07-23T12:55:59.132+08:00] screenshotBase64 end
+[2025-07-23T12:55:59.209+08:00] waitForNavigation begin
+[2025-07-23T12:55:59.209+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:59.210+08:00] waitForNavigation begin
+[2025-07-23T12:55:59.210+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:55:59.224+08:00] waitForNavigation end
+[2025-07-23T12:55:59.225+08:00] screenshotBase64 begin
+[2025-07-23T12:55:59.227+08:00] waitForNavigation end
+[2025-07-23T12:55:59.227+08:00] evaluate function begin
+[2025-07-23T12:55:59.249+08:00] evaluate function end
+[2025-07-23T12:55:59.287+08:00] screenshotBase64 end
+[2025-07-23T12:56:03.415+08:00] waitForNavigation begin
+[2025-07-23T12:56:03.415+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:03.416+08:00] waitForNavigation begin
+[2025-07-23T12:56:03.416+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:03.425+08:00] waitForNavigation end
+[2025-07-23T12:56:03.425+08:00] screenshotBase64 begin
+[2025-07-23T12:56:03.426+08:00] waitForNavigation end
+[2025-07-23T12:56:03.427+08:00] evaluate function begin
+[2025-07-23T12:56:03.449+08:00] evaluate function end
+[2025-07-23T12:56:03.512+08:00] screenshotBase64 end
+[2025-07-23T12:56:06.856+08:00] evaluate function begin
+[2025-07-23T12:56:06.863+08:00] evaluate function end
+[2025-07-23T12:56:06.864+08:00] waitForNavigation begin
+[2025-07-23T12:56:06.864+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:06.870+08:00] waitForNavigation end
+[2025-07-23T12:56:06.870+08:00] screenshotBase64 begin
+[2025-07-23T12:56:06.950+08:00] screenshotBase64 end
+[2025-07-23T12:56:07.172+08:00] waitForNavigation begin
+[2025-07-23T12:56:07.172+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:07.179+08:00] waitForNavigation end
+[2025-07-23T12:56:07.179+08:00] screenshotBase64 begin
+[2025-07-23T12:56:07.277+08:00] screenshotBase64 end
+[2025-07-23T12:56:07.355+08:00] waitForNavigation begin
+[2025-07-23T12:56:07.355+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:07.356+08:00] waitForNavigation begin
+[2025-07-23T12:56:07.356+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:07.362+08:00] waitForNavigation end
+[2025-07-23T12:56:07.362+08:00] screenshotBase64 begin
+[2025-07-23T12:56:07.364+08:00] waitForNavigation end
+[2025-07-23T12:56:07.364+08:00] evaluate function begin
+[2025-07-23T12:56:07.386+08:00] evaluate function end
+[2025-07-23T12:56:07.466+08:00] screenshotBase64 end
+[2025-07-23T12:56:12.284+08:00] evaluate function begin
+[2025-07-23T12:56:12.290+08:00] evaluate function end
+[2025-07-23T12:56:12.290+08:00] waitForNavigation begin
+[2025-07-23T12:56:12.290+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:12.296+08:00] waitForNavigation end
+[2025-07-23T12:56:12.296+08:00] screenshotBase64 begin
+[2025-07-23T12:56:12.375+08:00] screenshotBase64 end
+[2025-07-23T12:56:12.608+08:00] waitForNavigation begin
+[2025-07-23T12:56:12.609+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:12.615+08:00] waitForNavigation end
+[2025-07-23T12:56:12.615+08:00] screenshotBase64 begin
+[2025-07-23T12:56:12.682+08:00] screenshotBase64 end
+[2025-07-23T12:56:12.705+08:00] waitForNavigation begin
+[2025-07-23T12:56:12.705+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:12.711+08:00] waitForNavigation end
+[2025-07-23T12:56:12.711+08:00] screenshotBase64 begin
+[2025-07-23T12:56:12.777+08:00] screenshotBase64 end
+[2025-07-23T12:56:12.840+08:00] waitForNavigation begin
+[2025-07-23T12:56:12.840+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:12.841+08:00] waitForNavigation begin
+[2025-07-23T12:56:12.841+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:12.849+08:00] waitForNavigation end
+[2025-07-23T12:56:12.849+08:00] screenshotBase64 begin
+[2025-07-23T12:56:12.850+08:00] waitForNavigation end
+[2025-07-23T12:56:12.850+08:00] evaluate function begin
+[2025-07-23T12:56:12.871+08:00] evaluate function end
+[2025-07-23T12:56:12.932+08:00] screenshotBase64 end
+[2025-07-23T12:56:14.432+08:00] waitForNavigation begin
+[2025-07-23T12:56:14.432+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:14.438+08:00] waitForNavigation end
+[2025-07-23T12:56:14.438+08:00] screenshotBase64 begin
+[2025-07-23T12:56:14.506+08:00] screenshotBase64 end
+[2025-07-23T12:56:14.565+08:00] waitForNavigation begin
+[2025-07-23T12:56:14.565+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:14.566+08:00] waitForNavigation begin
+[2025-07-23T12:56:14.566+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:14.573+08:00] waitForNavigation end
+[2025-07-23T12:56:14.573+08:00] screenshotBase64 begin
+[2025-07-23T12:56:14.575+08:00] waitForNavigation end
+[2025-07-23T12:56:14.575+08:00] evaluate function begin
+[2025-07-23T12:56:14.596+08:00] evaluate function end
+[2025-07-23T12:56:14.651+08:00] screenshotBase64 end
+[2025-07-23T12:56:14.711+08:00] waitForNavigation begin
+[2025-07-23T12:56:14.711+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:14.711+08:00] waitForNavigation begin
+[2025-07-23T12:56:14.711+08:00] waitForNavigation timeout: 5000
+[2025-07-23T12:56:14.717+08:00] waitForNavigation end
+[2025-07-23T12:56:14.717+08:00] screenshotBase64 begin
+[2025-07-23T12:56:14.720+08:00] waitForNavigation end
+[2025-07-23T12:56:14.720+08:00] evaluate function begin
+[2025-07-23T12:56:14.740+08:00] evaluate function end
+[2025-07-23T12:56:14.809+08:00] screenshotBase64 end

@@ -1,0 +1,173 @@
+[2025-07-19T21:51:12.220+08:00] no cache file found, path: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:13.289+08:00] no unused cache found, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键
+[2025-07-19T21:51:19.593+08:00] no unused cache found, type: locate, prompt: 任务框 input
+[2025-07-19T21:51:23.485+08:00] will append cache {
+  type: 'locate',
+  prompt: '任务框 input',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-19T21:51:23.487+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:24.989+08:00] will append cache {
+  type: 'plan',
+  prompt: '在任务框 input 输入 今天学习 JS，按回车键',
+  yamlWorkflow: 'tasks:\n' +
+    '  - name: 在任务框 input 输入 今天学习 JS，按回车键\n' +
+    '    flow:\n' +
+    '      - aiInput: 今天学习 JS\n' +
+    '        locate: 任务框 input\n' +
+    '      - aiKeyboardPress: Enter\n'
+}
+[2025-07-19T21:51:24.990+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:24.997+08:00] no unused cache found, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键
+[2025-07-19T21:51:30.117+08:00] no unused cache found, type: locate, prompt: 任务框 input
+[2025-07-19T21:51:34.668+08:00] will append cache {
+  type: 'locate',
+  prompt: '任务框 input',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-19T21:51:34.669+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:36.275+08:00] will append cache {
+  type: 'plan',
+  prompt: '在任务框 input 输入 明天学习 Rust，按回车键',
+  yamlWorkflow: 'tasks:\n' +
+    '  - name: 在任务框 input 输入 明天学习 Rust，按回车键\n' +
+    '    flow:\n' +
+    '      - aiInput: 明天学习 Rust\n' +
+    '        locate: 任务框 input\n' +
+    '      - aiKeyboardPress: Enter\n'
+}
+[2025-07-19T21:51:36.275+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:36.287+08:00] no unused cache found, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键
+[2025-07-19T21:51:40.048+08:00] no unused cache found, type: locate, prompt: 任务框 input
+[2025-07-19T21:51:44.139+08:00] will append cache {
+  type: 'locate',
+  prompt: '任务框 input',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-19T21:51:44.140+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:45.590+08:00] will append cache {
+  type: 'plan',
+  prompt: '在任务框 input 输入后天学习 AI，按回车键',
+  yamlWorkflow: 'tasks:\n' +
+    '  - name: 在任务框 input 输入后天学习 AI，按回车键\n' +
+    '    flow:\n' +
+    '      - aiInput: 后天学习 AI\n' +
+    '        locate: 任务框 input\n' +
+    '      - aiKeyboardPress: Enter\n'
+}
+[2025-07-19T21:51:45.591+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:45.605+08:00] no unused cache found, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮
+[2025-07-19T21:51:54.434+08:00] will append cache {
+  type: 'plan',
+  prompt: '将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮',
+  yamlWorkflow: 'tasks:\n' +
+    '  - name: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮\n' +
+    '    flow:\n' +
+    '      - {}\n' +
+    '      - {}\n'
+}
+[2025-07-19T21:51:54.435+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:54.619+08:00] no unused cache found, type: locate, prompt: 第二条任务左边的勾选按钮
+[2025-07-19T21:51:59.034+08:00] will append cache {
+  type: 'locate',
+  prompt: '第二条任务左边的勾选按钮',
+  xpaths: [ '/html/body/section[1]/main[1]/ul[1]/li[2]/div[1]/input[1]' ]
+}
+[2025-07-19T21:51:59.035+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:51:59.648+08:00] no unused cache found, type: locate, prompt: 任务列表下面的 completed 状态按钮
+[2025-07-19T21:52:02.876+08:00] will append cache {
+  type: 'locate',
+  prompt: '任务列表下面的 completed 状态按钮',
+  xpaths: [ '/html/body/section[1]/footer[1]/ul[1]/li[3]/a[1]' ]
+}
+[2025-07-19T21:52:02.876+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:10.036+08:00] cache loaded from file, path: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml, cache version: 0.22.1, record length: 9
+[2025-07-19T21:57:12.079+08:00] cache found and marked as used, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键, index: 1
+[2025-07-19T21:57:16.900+08:00] no unused cache found, type: locate, prompt: 任务输入框，用于添加新的待办事项
+[2025-07-19T21:57:21.492+08:00] will append cache {
+  type: 'locate',
+  prompt: '任务输入框，用于添加新的待办事项',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-19T21:57:21.495+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:23.020+08:00] will call updateFn to update cache, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键, index: 1
+[2025-07-19T21:57:23.020+08:00] cache updated, will flush to file, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键, index: 1
+[2025-07-19T21:57:23.021+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:23.029+08:00] cache found and marked as used, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键, index: 3
+[2025-07-19T21:57:29.751+08:00] cache found and marked as used, type: locate, prompt: 任务框 input, index: 0
+[2025-07-19T21:57:33.183+08:00] will call updateFn to update cache, type: locate, prompt: 任务框 input, index: 0
+[2025-07-19T21:57:33.183+08:00] cache updated, will flush to file, type: locate, prompt: 任务框 input, index: 0
+[2025-07-19T21:57:33.184+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:34.834+08:00] will call updateFn to update cache, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键, index: 3
+[2025-07-19T21:57:34.834+08:00] cache updated, will flush to file, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键, index: 3
+[2025-07-19T21:57:34.835+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:34.846+08:00] cache found and marked as used, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键, index: 5
+[2025-07-19T21:57:42.265+08:00] no unused cache found, type: locate, prompt: 任务框 input，用于输入新的待办事项
+[2025-07-19T21:57:49.228+08:00] will append cache {
+  type: 'locate',
+  prompt: '任务框 input，用于输入新的待办事项',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-19T21:57:49.228+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:50.687+08:00] will call updateFn to update cache, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键, index: 5
+[2025-07-19T21:57:50.687+08:00] cache updated, will flush to file, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键, index: 5
+[2025-07-19T21:57:50.688+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:50.704+08:00] cache found and marked as used, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮, index: 6
+[2025-07-19T21:57:55.958+08:00] will call updateFn to update cache, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮, index: 6
+[2025-07-19T21:57:55.958+08:00] cache updated, will flush to file, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮, index: 6
+[2025-07-19T21:57:55.959+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:57:56.141+08:00] cache found and marked as used, type: locate, prompt: 第二条任务左边的勾选按钮, index: 7
+[2025-07-19T21:58:00.642+08:00] will call updateFn to update cache, type: locate, prompt: 第二条任务左边的勾选按钮, index: 7
+[2025-07-19T21:58:00.642+08:00] cache updated, will flush to file, type: locate, prompt: 第二条任务左边的勾选按钮, index: 7
+[2025-07-19T21:58:00.642+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-19T21:58:01.239+08:00] cache found and marked as used, type: locate, prompt: 任务列表下面的 completed 状态按钮, index: 8
+[2025-07-19T21:58:04.606+08:00] will call updateFn to update cache, type: locate, prompt: 任务列表下面的 completed 状态按钮, index: 8
+[2025-07-19T21:58:04.606+08:00] cache updated, will flush to file, type: locate, prompt: 任务列表下面的 completed 状态按钮, index: 8
+[2025-07-19T21:58:04.607+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:16.994+08:00] cache loaded from file, path: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml, cache version: 0.22.1, record length: 11
+[2025-07-23T12:55:18.264+08:00] cache found and marked as used, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键, index: 1
+[2025-07-23T12:55:29.445+08:00] cache found and marked as used, type: locate, prompt: 任务框 input, index: 0
+[2025-07-23T12:55:32.643+08:00] will call updateFn to update cache, type: locate, prompt: 任务框 input, index: 0
+[2025-07-23T12:55:32.643+08:00] cache updated, will flush to file, type: locate, prompt: 任务框 input, index: 0
+[2025-07-23T12:55:32.646+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:34.127+08:00] will call updateFn to update cache, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键, index: 1
+[2025-07-23T12:55:34.127+08:00] cache updated, will flush to file, type: plan, prompt: 在任务框 input 输入 今天学习 JS，按回车键, index: 1
+[2025-07-23T12:55:34.127+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:34.170+08:00] cache found and marked as used, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键, index: 3
+[2025-07-23T12:55:38.835+08:00] cache found and marked as used, type: locate, prompt: 任务框 input, index: 2
+[2025-07-23T12:55:44.656+08:00] will call updateFn to update cache, type: locate, prompt: 任务框 input, index: 2
+[2025-07-23T12:55:44.656+08:00] cache updated, will flush to file, type: locate, prompt: 任务框 input, index: 2
+[2025-07-23T12:55:44.656+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:46.259+08:00] will call updateFn to update cache, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键, index: 3
+[2025-07-23T12:55:46.259+08:00] cache updated, will flush to file, type: plan, prompt: 在任务框 input 输入 明天学习 Rust，按回车键, index: 3
+[2025-07-23T12:55:46.260+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:46.269+08:00] cache found and marked as used, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键, index: 5
+[2025-07-23T12:55:50.834+08:00] no unused cache found, type: locate, prompt: The input field for new todos
+[2025-07-23T12:55:54.677+08:00] will append cache {
+  type: 'locate',
+  prompt: 'The input field for new todos',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-23T12:55:54.677+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:55.124+08:00] no unused cache found, type: locate, prompt: The input field for new todos
+[2025-07-23T12:55:57.702+08:00] will append cache {
+  type: 'locate',
+  prompt: 'The input field for new todos',
+  xpaths: [ '/html/body/section[1]/header[1]/div[1]/input[1]' ]
+}
+[2025-07-23T12:55:57.703+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:59.132+08:00] will call updateFn to update cache, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键, index: 5
+[2025-07-23T12:55:59.132+08:00] cache updated, will flush to file, type: plan, prompt: 在任务框 input 输入后天学习 AI，按回车键, index: 5
+[2025-07-23T12:55:59.133+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:55:59.149+08:00] cache found and marked as used, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮, index: 6
+[2025-07-23T12:56:03.338+08:00] will call updateFn to update cache, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮, index: 6
+[2025-07-23T12:56:03.338+08:00] cache updated, will flush to file, type: plan, prompt: 将鼠标移动到任务列表中的第二项，点击第二项任务右边的删除按钮, index: 6
+[2025-07-23T12:56:03.339+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:56:03.512+08:00] cache found and marked as used, type: locate, prompt: 第二条任务左边的勾选按钮, index: 7
+[2025-07-23T12:56:06.863+08:00] will call updateFn to update cache, type: locate, prompt: 第二条任务左边的勾选按钮, index: 7
+[2025-07-23T12:56:06.863+08:00] cache updated, will flush to file, type: locate, prompt: 第二条任务左边的勾选按钮, index: 7
+[2025-07-23T12:56:06.864+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml
+[2025-07-23T12:56:07.466+08:00] cache found and marked as used, type: locate, prompt: 任务列表下面的 completed 状态按钮, index: 8
+[2025-07-23T12:56:12.290+08:00] will call updateFn to update cache, type: locate, prompt: 任务列表下面的 completed 状态按钮, index: 8
+[2025-07-23T12:56:12.290+08:00] cache updated, will flush to file, type: locate, prompt: 任务列表下面的 completed 状态按钮, index: 8
+[2025-07-23T12:56:12.290+08:00] cache flushed to file: F:\Users\lyg\TestOps\midscene_run\cache\todo-mvc-zh.spec.ts(ai-todo---Chinese-Prompt).cache.yaml

@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","46840","test_login","test_ui.test_case.login","Wed Jul 23 14:14:40 CST 2025","passed","Wed Jul 23 14:15:27 CST 2025","TestLogin","test_login_page","",""
+"","10062","test_createService","test_ui.test_case.service","Wed Jul 23 14:16:02 CST 2025","passed","Wed Jul 23 14:16:12 CST 2025","TestService","test_service_page","",""

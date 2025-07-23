@@ -1,0 +1,19 @@
+INFO     wg.log:login_page.py:30 加载动态数据,打开网页：http://console.test425-qingzhou.com
+INFO     wg.log:login_page.py:41 输入用户名: 'admin', 操作元素: role=textbox, name=请输入账号
+INFO     wg.log:login_page.py:55 输入用户密码: 'admin123456', 操作元素: role=textbox, name=请输入密码
+INFO     wg.log:login_page.py:69 点击登录按钮, 操作元素: text='登录', exact=True
+INFO     wg.log:login_page.py:92 导航至API网关, 操作元素: base='div', text='re.compile('^API网关$')', child='span'
+INFO     wg.log:service_page.py:32 点击服务管理菜单, 操作元素: role=menuitem, name=服务管理
+INFO     wg.log:service_page.py:46 点击'创建服务'按钮, 操作元素: base=a, text=创建服务
+INFO     wg.log:service_page.py:59 选择协议: 'HTTP', 操作元素: role=radio, name=HTTP, exact=True
+INFO     wg.log:service_page.py:72 输入服务名称: qingzhou-test-service, 操作元素: placeholder=以小写字母或数字开头和结尾，支持符号：-，2-63个字符以内
+INFO     wg.log:service_page.py:85 输入服务别名: qingzhou_test_service, 操作元素: placeholder=100个字符以内
+INFO     wg.log:service_page.py:101 选择网关: gateway-proxy, 操作元素: placeholder=请选择网关, 选项文本=gateway-proxy
+INFO     wg.log:service_page.py:117 选择注册中心类型: Kubernetes, 操作元素: placeholder=请选择注册中心类型, 选项文本=Kubernetes
+INFO     wg.log:service_page.py:125 选择应用名称: apigw-demo-e2e.apigw-demo.svc.cluster.local, 操作元素: placeholder=请选择应用名称, 选项文本=apigw-demo-e2e.apigw-demo.svc.cluster.local
+INFO     wg.log:service_page.py:139 选择域名: 10.104.183.13, 操作元素: base=div, text=re.compile('^域名10\\.104\\.183\\.13'), child=textbox
+INFO     wg.log:service_page.py:153 点击确定按钮, 操作元素: base=a, text=^确定$
+INFO     wg.log:page_utils.py:23 点击确认按钮后截图：添加截图到Allure报告
+INFO     wg.log:service_page.py:169 查询服务: 网关=gateway-proxy, 服务=qingzhou-test-service
+INFO     wg.log:page_utils.py:39 验证成功: 元素 'qingzhou-test-service' 可见
+INFO     wg.log:service_page.py:181 删除服务: text=删除
